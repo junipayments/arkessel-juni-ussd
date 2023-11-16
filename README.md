@@ -1,34 +1,14 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Juni-arkesel-uusd" />
+  <img src="./.github/app.gif" alt="juni-uusd" />
 
   &#xa0;
 
   <!-- <a href="https://arkesel.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">Arkesel</h1>
+<h1 align="center">Juni-ussd</h1>
 
-<p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/Willowusu/arkesel?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/Willowusu/arkesel?color=56BEB8">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Willowusu/arkesel?color=56BEB8">
-
-  <img alt="License" src="https://img.shields.io/github/license/Willowusu/arkesel?color=56BEB8">
-
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/Willowusu/arkesel?color=56BEB8" /> -->
-
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/Willowusu/arkesel?color=56BEB8" /> -->
-
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/Willowusu/arkesel?color=56BEB8" /> -->
-</p>
-
-<!-- Status -->
-
-<!-- <h4 align="center"> 
-	🚧  Arkesel 🚀 Under construction...  🚧
-</h4> 
 
 <hr> -->
 
@@ -64,13 +44,13 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 $ git clone https://github.com/junipayments/arkessel-juni-ussd
 
 # Access
-$ cd arkesel
+$ cd arkessel-juni-ussd
 
 # Install dependencies
-$ yarn
+$ npm install
 
 # Run the project
-$ yarn start
+$ npm start
 
 # The server will initialize in the <http://localhost:3000>
 ```
